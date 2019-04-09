@@ -18,12 +18,13 @@
 1. 下载完成以后，打开SqlServerConnect.py，修改其中的数据库和密码，并完成数据库的建立  
 2. 根据需要修改 课程推送.py 文件内的内容  
 
-
+---
 ## 目录结构
-main.py 文件是入口
-receive.py 公众号收到消息后的解析操作
-reply.py 公众号回复消息的包装操作
-handle.py 主要文件
+main.py 文件是入口  
+receive.py 公众号收到消息后的解析操作  
+reply.py 公众号回复消息的包装操作  
+handle.py 主要文件  
 
-get函数用来验证
-post函数正常接收
+get函数用来验证  
+post函数正常接收  
+ 
